@@ -71,4 +71,5 @@ A responsive React restaurant website with navigation, table reservation flow, f
 ## Connect With Me
 
 - GitHub: [github.com/AbdelrahmanMohamed7](https://github.com/AbdelrahmanMohamed7)
-- LinkedIn: [linkedin.com/in/abdelrahman-mohamed-85a61522a](https://www.linkedin.com/in/abdelrahman-mohamed-85a61522a/)           - Portfolio: Coming soon
+- LinkedIn: [linkedin.com/in/abdelrahman-mohamed-85a61522a](https://www.linkedin.com/in/abdelrahman-mohamed-85a61522a/)
+- Portfolio: Coming soon
