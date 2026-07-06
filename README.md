@@ -2,74 +2,84 @@
 
 ## Software Developer | Full-Stack Developer
 
-I am a software developer focused on building practical, well-structured applications across mobile, frontend, backend, and data-driven systems. My work includes Flutter mobile apps, Java desktop systems, React and Vue web applications, C++ algorithmic engines, and backend projects using Firebase, Redis, and database-driven architectures.
+I build practical, well-structured applications across mobile, web, backend, desktop, and data-driven systems. My portfolio includes Flutter mobile apps, Java desktop platforms, React/Vue interfaces, backend services, Redis and Firebase workflows, and algorithm-focused C++/C projects.
 
-I enjoy turning real-world problems into clean software solutions, with attention to usability, structure, performance, and maintainability.
+I care about clean project structure, readable code, usable interfaces, and presenting software in a way that other developers can clone, understand, and extend.
+
+**Portfolio:** [Portfolio Website](https://portfolio-three-weld-1nl59zz6ir.vercel.app/)  
+**LinkedIn:** [Abdelrahman Mohamed](https://www.linkedin.com/in/abdelrahman-mohamed-85a61522a/)  
+**Email:** [bodabanzen1818@gmail.com](mailto:bodabanzen1818@gmail.com)
 
 ## Featured Projects
 
 ### Restaurant Canteen App
-A Flutter restaurant and canteen ordering app with Firebase authentication, cart management, location-aware checkout, and order tracking.
+
+A Flutter ordering app with Firebase authentication, cart management, location-aware checkout, order tracking, and customer/manager flows.
 
 **Tech Stack:** Flutter, Dart, Firebase, Firestore, Realtime Database, Google Maps, GetX  
 **Repository:** [restaurant-canteen-app](https://github.com/AbdelrahmanMohamed7/restaurant-canteen-app)
 
 ### Enterprise Payroll System
+
 A Java desktop payroll management system with employee records, salary calculations, role-based access, database storage, and PDF reporting.
 
-**Tech Stack:** Java, Java Swing, SQLite, OOP, PDF Generation  
+**Tech Stack:** Java, Swing, SQLite, Object-Oriented Programming, PDF Reports  
 **Repository:** [Enterprise-Payroll-System-Public](https://github.com/AbdelrahmanMohamed7/Enterprise-Payroll-System-Public)
 
 ### Medical Records Access Platform
-A Vue and Express medical records access platform using Redis-backed permission mapping for secure off-chain authorization workflows.
 
-**Tech Stack:** Vue, JavaScript, Express.js, Redis, Docker, Access Control  
+A Vue and Express platform using Redis-backed permission mapping for secure medical record authorization workflows.
+
+**Tech Stack:** Vue, Express.js, Redis, Docker, JavaScript, Access Control  
 **Repository:** [medical-blockchain-project](https://github.com/AbdelrahmanMohamed7/medical-blockchain-project)
 
 ### Global University Ranking Engine
-A C++ analytics and recommendation engine for university ranking data with searching, sorting, file handling, and performance benchmarking.
+
+A C++ analytics and recommendation engine for ranking data with searching, sorting, file handling, and performance benchmarking.
 
 **Tech Stack:** C++, Data Structures, Algorithms, File Handling, Performance Analysis  
 **Repository:** [global-university-ranking-engine](https://github.com/AbdelrahmanMohamed7/global-university-ranking-engine)
 
-### Airport Concurrency Simulation
-A Java multi-threaded simulation engine for airport runway scheduling, gate allocation, and safe concurrent flight operations.
+### Car Rental Fleet Tracking System
 
-**Tech Stack:** Java, Maven, Multithreading, Concurrency, Synchronization  
-**Repository:** [Airport-Concurrency-Simulation](https://github.com/AbdelrahmanMohamed7/Airport-Concurrency-Simulation)
+A Java desktop fleet management system for car registration, customer records, rental availability, return handling, due dates, and fine tracking.
 
-### Little Lemon Restaurant
-A responsive React restaurant website with navigation, table reservation flow, form validation, and modern UI styling.
+**Tech Stack:** Java, Swing, Desktop App, CRUD, Fleet Management  
+**Repository:** [Car-Rental-Fleet-Tracking-System](https://github.com/AbdelrahmanMohamed7/Car-Rental-Fleet-Tracking-System)
 
-**Tech Stack:** React, JavaScript, HTML, CSS, Responsive Design  
-**Repository:** [Little-Lemon-Restaurant](https://github.com/AbdelrahmanMohamed7/Little-Lemon-Restaurant)
+### Procedural 2D Console Physics Engine
+
+A C-based console physics project with a configurable game loop, score view, ASCII playfield rendering, and procedural motion behavior.
+
+**Tech Stack:** C, Console UI, 2D Physics, Simulation, Procedural Programming  
+**Repository:** [Procedural-2D-Physics-Engine](https://github.com/AbdelrahmanMohamed7/Procedural-2D-Physics-Engine)
 
 ## Technical Skills
 
-**Languages:** Java, JavaScript, Dart, Python, C++, C, Rust, Assembly, SQL  
-**Frontend:** React, Vue, HTML5, CSS3, Responsive Design  
+**Languages:** Java, JavaScript, TypeScript, Dart, Python, C++, C, C#, Rust, SQL  
+**Frontend:** React, Vue, Next.js, HTML5, CSS3, Tailwind CSS, Responsive Design  
 **Mobile:** Flutter, Dart, Firebase, Google Maps Integration  
-**Backend & Databases:** Firebase, Firestore, Realtime Database, Express.js, Redis, SQLite  
+**Backend & Data:** Express.js, Node.js, Firebase, Firestore, Realtime Database, Redis, SQLite, MySQL  
 **Core Concepts:** Object-Oriented Programming, Data Structures, Algorithms, Concurrency, File Handling, System Design Fundamentals  
-**Tools:** Git, GitHub, Docker, Android Studio, VS Code
+**Tools:** Git, GitHub, Docker, Android Studio, VS Code, Linux, VMware
 
 ## What I Build
 
-- Mobile applications with authentication, database integration, and real user flows
+- Mobile applications with authentication, databases, maps, carts, and real user flows
 - Full-stack web applications with frontend interfaces and backend services
-- Java desktop systems with structured business logic and database storage
-- Algorithmic and systems-focused projects using C++, C, Rust, and Assembly
-- Practical software projects designed to be readable, maintainable, and portfolio-ready
+- Java desktop systems with structured business logic, CRUD workflows, and local databases
+- Algorithmic and systems-focused projects using C++, C, Java, and low-level programming concepts
+- Portfolio-ready projects with clear READMEs, screenshots, setup instructions, and deployment links
 
-## Currently Improving
+## Current Focus
 
-- Advanced full-stack development
-- Clean architecture and scalable application structure
-- Cloud deployment and production-ready project workflows
-- Professional portfolio and open-source project presentation
+- Full-stack and mobile software development roles
+- Clean architecture, production-ready workflows, and scalable project structure
+- Remote software development opportunities and freelance-friendly project delivery
 
-## Connect With Me
+## Connect
 
-- GitHub: [github.com/AbdelrahmanMohamed7](https://github.com/AbdelrahmanMohamed7)
-- LinkedIn: [linkedin.com/in/abdelrahman-mohamed-85a61522a](https://www.linkedin.com/in/abdelrahman-mohamed-85a61522a/)
-- Portfolio: [https://portfolio-three-weld-1nl59zz6ir.vercel.app/#home](https://portfolio-three-weld-1nl59zz6ir.vercel.app/#home/)
+- [Portfolio](https://portfolio-three-weld-1nl59zz6ir.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/abdelrahman-mohamed-85a61522a/)
+- [GitHub](https://github.com/AbdelrahmanMohamed7)
+- [Email](mailto:bodabanzen1818@gmail.com)
