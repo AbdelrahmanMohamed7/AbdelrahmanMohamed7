@@ -7,6 +7,7 @@ I build practical, well-structured applications across mobile, web, backend, des
 I care about clean project structure, readable code, usable interfaces, and presenting software in a way that other developers can clone, understand, and extend.
 
 **Portfolio:** [Portfolio Website](https://portfolio-three-weld-1nl59zz6ir.vercel.app/)  
+**Resume:** [Download CV](assets/Abdelrahman_Mohamed_CV_Professional.pdf)  
 **LinkedIn:** [Abdelrahman Mohamed](https://www.linkedin.com/in/abdelrahman-mohamed-85a61522a/)  
 **Email:** [bodabanzen1818@gmail.com](mailto:bodabanzen1818@gmail.com)
 
@@ -80,6 +81,7 @@ A C-based console physics project with a configurable game loop, score view, ASC
 ## Connect
 
 - [Portfolio](https://portfolio-three-weld-1nl59zz6ir.vercel.app/)
+- [Resume / CV](assets/Abdelrahman_Mohamed_CV_Professional.pdf)
 - [LinkedIn](https://www.linkedin.com/in/abdelrahman-mohamed-85a61522a/)
 - [GitHub](https://github.com/AbdelrahmanMohamed7)
 - [Email](mailto:bodabanzen1818@gmail.com)
