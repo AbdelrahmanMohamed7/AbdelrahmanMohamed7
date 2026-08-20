@@ -1,87 +1,99 @@
-# Hi, I'm Abdelrahman Mohamed
+<div align="center">
+  <img src="assets/profile-banner.svg" alt="Abdelrahman Mohamed — Full-Stack and Mobile Developer" width="100%" />
+</div>
 
-## Software Developer | Full-Stack Developer
+<div align="center">
+  <h3>Turning ideas into practical, well-structured products.</h3>
+  <p>
+    I build end-to-end experiences across web, mobile, backend, and desktop—<br />
+    with a focus on clean architecture, usable interfaces, and code that is easy to understand and extend.
+  </p>
 
-I build practical, well-structured applications across mobile, web, backend, desktop, and data-driven systems. My portfolio includes Flutter mobile apps, Java desktop platforms, React/Vue interfaces, backend services, Redis and Firebase workflows, and algorithm-focused C++/C projects.
+  <p>
+    <a href="https://portfolio-three-weld-1nl59zz6ir.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+    <a href="assets/Abdelrahman_Mohamed_CV_Professional.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-0F766E?style=for-the-badge&amp;logo=readme&amp;logoColor=white" alt="Résumé" /></a>
+    <a href="https://www.linkedin.com/in/abdelrahman-mohamed-85a61522a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:bodabanzen1818@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
-I care about clean project structure, readable code, usable interfaces, and presenting software in a way that other developers can clone, understand, and extend.
+---
 
-**Portfolio:** [Portfolio Website](https://portfolio-three-weld-1nl59zz6ir.vercel.app/)  
-**Resume:** [Download CV](assets/Abdelrahman_Mohamed_CV_Professional.pdf)  
-**LinkedIn:** [Abdelrahman Mohamed](https://www.linkedin.com/in/abdelrahman-mohamed-85a61522a/)  
-**Email:** [bodabanzen1818@gmail.com](mailto:bodabanzen1818@gmail.com)
+## Selected work
 
-## Featured Projects
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🍽️ Restaurant Canteen</h3>
+      <p>A complete Flutter ordering experience with customer and manager flows, real-time menu data, cart persistence, location-aware checkout, and order tracking.</p>
+      <p><strong>Flutter · Dart · Firebase · GetX</strong></p>
+      <a href="https://github.com/AbdelrahmanMohamed7/restaurant-canteen-app"><strong>Explore the project →</strong></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💼 Enterprise Payroll</h3>
+      <p>A Java desktop system for employee records, automated salary calculations, role-based access, audit tracking, SQLite persistence, and PDF reporting.</p>
+      <p><strong>Java · Swing · SQLite · iText</strong></p>
+      <a href="https://github.com/AbdelrahmanMohamed7/enterprise-payroll-system-public"><strong>Explore the project →</strong></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏥 Medical Records Access</h3>
+      <p>A full-stack authorization platform with dedicated admin, doctor, and patient flows plus dual Redis mappings for secure record permissions.</p>
+      <p><strong>Vue · Express.js · Redis · Docker</strong></p>
+      <a href="https://github.com/AbdelrahmanMohamed7/medical-blockchain-project"><strong>Explore the project →</strong></a>
+    </td>
+  </tr>
+</table>
 
-### Restaurant Canteen App
+### More projects
 
-A Flutter ordering app with Firebase authentication, cart management, location-aware checkout, order tracking, and customer/manager flows.
+- **[Global University Ranking Engine](https://github.com/AbdelrahmanMohamed7/global-university-ranking-engine)** — C++ searching, sorting, recommendations, file processing, and performance benchmarks across 1,400+ records.
+- **[Car Rental Fleet Tracker](https://github.com/AbdelrahmanMohamed7/car-rental-fleet-tracker)** — Java fleet management for vehicles, customers, availability, bookings, returns, due dates, and fines.
+- **[Procedural 2D Physics Engine](https://github.com/AbdelrahmanMohamed7/procedural-2D-physics-engine)** — A C-based console simulation exploring procedural motion, game-loop behavior, scoring, and ASCII rendering.
 
-**Tech Stack:** Flutter, Dart, Firebase, Firestore, Realtime Database, Google Maps, GetX  
-**Repository:** [restaurant-canteen-app](https://github.com/AbdelrahmanMohamed7/restaurant-canteen-app)
+---
 
-### Enterprise Payroll System
+## Technologies I use
 
-A Java desktop payroll management system with employee records, salary calculations, role-based access, database storage, and PDF reporting.
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,dart,cpp,c,react,vue,nextjs,nodejs,express,flutter,firebase,redis,mysql,sqlite,docker,git&amp;perline=9" alt="Java, JavaScript, TypeScript, Dart, C++, C, React, Vue, Next.js, Node.js, Express, Flutter, Firebase, Redis, MySQL, SQLite, Docker, and Git" />
+  </a>
+</div>
 
-**Tech Stack:** Java, Swing, SQLite, Object-Oriented Programming, PDF Reports  
-**Repository:** [Enterprise-Payroll-System-Public](https://github.com/AbdelrahmanMohamed7/Enterprise-Payroll-System-Public)
+<br />
 
-### Medical Records Access Platform
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🖥️ Product interfaces</h3>
+      <p>Responsive web applications, Flutter mobile experiences, and structured Java desktop interfaces.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Application logic</h3>
+      <p>Authentication, role-based access, APIs, state management, databases, and real-world business workflows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧱 Engineering foundations</h3>
+      <p>Object-oriented design, data structures, algorithms, concurrency, file handling, and maintainable project structure.</p>
+    </td>
+  </tr>
+</table>
 
-A Vue and Express platform using Redis-backed permission mapping for secure medical record authorization workflows.
+---
 
-**Tech Stack:** Vue, Express.js, Redis, Docker, JavaScript, Access Control  
-**Repository:** [medical-blockchain-project](https://github.com/AbdelrahmanMohamed7/medical-blockchain-project)
+## Currently focused on
 
-### Global University Ranking Engine
+- Building polished full-stack and mobile applications from interface to data layer
+- Strengthening clean architecture, backend design, and production-ready delivery
+- Exploring software development roles and remote collaboration opportunities
 
-A C++ analytics and recommendation engine for ranking data with searching, sorting, file handling, and performance benchmarking.
-
-**Tech Stack:** C++, Data Structures, Algorithms, File Handling, Performance Analysis  
-**Repository:** [global-university-ranking-engine](https://github.com/AbdelrahmanMohamed7/global-university-ranking-engine)
-
-### Car Rental Fleet Tracking System
-
-A Java desktop fleet management system for car registration, customer records, rental availability, return handling, due dates, and fine tracking.
-
-**Tech Stack:** Java, Swing, Desktop App, CRUD, Fleet Management  
-**Repository:** [Car-Rental-Fleet-Tracking-System](https://github.com/AbdelrahmanMohamed7/Car-Rental-Fleet-Tracking-System)
-
-### Procedural 2D Console Physics Engine
-
-A C-based console physics project with a configurable game loop, score view, ASCII playfield rendering, and procedural motion behavior.
-
-**Tech Stack:** C, Console UI, 2D Physics, Simulation, Procedural Programming  
-**Repository:** [Procedural-2D-Physics-Engine](https://github.com/AbdelrahmanMohamed7/Procedural-2D-Physics-Engine)
-
-## Technical Skills
-
-**Languages:** Java, JavaScript, TypeScript, Dart, Python, C++, C, C#, Rust, SQL  
-**Frontend:** React, Vue, Next.js, HTML5, CSS3, Tailwind CSS, Responsive Design  
-**Mobile:** Flutter, Dart, Firebase, Google Maps Integration  
-**Backend & Data:** Express.js, Node.js, Firebase, Firestore, Realtime Database, Redis, SQLite, MySQL  
-**Core Concepts:** Object-Oriented Programming, Data Structures, Algorithms, Concurrency, File Handling, System Design Fundamentals  
-**Tools:** Git, GitHub, Docker, Android Studio, VS Code, Linux, VMware
-
-## What I Build
-
-- Mobile applications with authentication, databases, maps, carts, and real user flows
-- Full-stack web applications with frontend interfaces and backend services
-- Java desktop systems with structured business logic, CRUD workflows, and local databases
-- Algorithmic and systems-focused projects using C++, C, Java, and low-level programming concepts
-- Portfolio-ready projects with clear READMEs, screenshots, setup instructions, and deployment links
-
-## Current Focus
-
-- Full-stack and mobile software development roles
-- Clean architecture, production-ready workflows, and scalable project structure
-- Remote software development opportunities and freelance-friendly project delivery
-
-## Connect
-
-- [Portfolio](https://portfolio-three-weld-1nl59zz6ir.vercel.app/)
-- [Resume / CV](assets/Abdelrahman_Mohamed_CV_Professional.pdf)
-- [LinkedIn](https://www.linkedin.com/in/abdelrahman-mohamed-85a61522a/)
-- [GitHub](https://github.com/AbdelrahmanMohamed7)
-- [Email](mailto:bodabanzen1818@gmail.com)
+<div align="center">
+  <h3>Have a product idea or an engineering opportunity?</h3>
+  <p>
+    <a href="mailto:bodabanzen1818@gmail.com"><strong>Let's talk</strong></a>
+    &nbsp;·&nbsp;
+    <a href="https://portfolio-three-weld-1nl59zz6ir.vercel.app/"><strong>View my portfolio</strong></a>
+    &nbsp;·&nbsp;
+    <a href="assets/Abdelrahman_Mohamed_CV_Professional.pdf"><strong>Read my résumé</strong></a>
+  </p>
+</div>
