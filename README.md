@@ -1,98 +1,173 @@
-<div align="center">
-  <img src="assets/profile-banner.svg" alt="Abdelrahman Mohamed — Full-Stack and Mobile Developer" width="100%" />
-</div>
+<h1 align="center">Hi, I'm Abdelrahman Mohamed 👋</h1>
 
-<div align="center">
-  <h3>Turning ideas into practical, well-structured products.</h3>
-  <p>
-    I build end-to-end experiences across web, mobile, backend, and desktop—<br />
-    with a focus on clean architecture, usable interfaces, and code that is easy to understand and extend.
-  </p>
+<h3 align="center">Full-Stack Software Developer</h3>
 
-  <p>
-    <a href="https://portfolio-three-weld-1nl59zz6ir.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
-    <a href="assets/Abdelrahman_Mohamed_CV_Professional.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-0F766E?style=for-the-badge&amp;logo=readme&amp;logoColor=white" alt="Résumé" /></a>
-    <a href="https://www.linkedin.com/in/abdelrahman-mohamed-85a61522a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:bodabanzen1818@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  </p>
-</div>
+<p align="center">
+  I build practical products across web, mobile, backend, and desktop—turning ideas into<br />
+  clear user experiences backed by maintainable, well-structured engineering.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-three-weld-1nl59zz6ir.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0EA5E9?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="assets/Abdelrahman_Mohamed_CV_Professional.pdf"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-0F766E?style=for-the-badge&amp;logo=readme&amp;logoColor=white" alt="Résumé" /></a>
+  <a href="https://www.linkedin.com/in/abdelrahman-mohamed-85a61522a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bodabanzen1818@gmail.com"><img src="https://img.shields.io/badge/EMAIL-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Cairo,_Egypt-111827?style=flat-square" alt="Cairo, Egypt" />
+  <img src="https://img.shields.io/badge/Workplace-Open_to_Remote-111827?style=flat-square" alt="Open to remote opportunities" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-065F46?style=flat-square" alt="Open to software development opportunities" />
+</p>
 
 ---
 
-## Selected work
+## A quick introduction
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🍽️ Restaurant Canteen</h3>
-      <p>A complete Flutter ordering experience with customer and manager flows, real-time menu data, cart persistence, location-aware checkout, and order tracking.</p>
-      <p><strong>Flutter · Dart · Firebase · GetX</strong></p>
-      <a href="https://github.com/AbdelrahmanMohamed7/restaurant-canteen-app"><strong>Explore the project →</strong></a>
+      <h3>🎓 Computer Science</h3>
+      <p>Dual-degree graduate from Asia Pacific University, Malaysia and De Montfort University, UK.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>💼 Enterprise Payroll</h3>
-      <p>A Java desktop system for employee records, automated salary calculations, role-based access, audit tracking, SQLite persistence, and PDF reporting.</p>
-      <p><strong>Java · Swing · SQLite · iText</strong></p>
-      <a href="https://github.com/AbdelrahmanMohamed7/enterprise-payroll-system-public"><strong>Explore the project →</strong></a>
+      <h3>🏅 Frontend certified</h3>
+      <p>Meta Front-End Developer Professional Certificate, backed by hands-on React and interface work.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🏥 Medical Records Access</h3>
-      <p>A full-stack authorization platform with dedicated admin, doctor, and patient flows plus dual Redis mappings for secure record permissions.</p>
-      <p><strong>Vue · Express.js · Redis · Docker</strong></p>
-      <a href="https://github.com/AbdelrahmanMohamed7/medical-blockchain-project"><strong>Explore the project →</strong></a>
+      <h3>🧩 End-to-end builder</h3>
+      <p>Comfortable moving from user interface and application logic to data, integrations, and delivery.</p>
     </td>
   </tr>
 </table>
 
-### More projects
-
-- **[Global University Ranking Engine](https://github.com/AbdelrahmanMohamed7/global-university-ranking-engine)** — C++ searching, sorting, recommendations, file processing, and performance benchmarks across 1,400+ records.
-- **[Car Rental Fleet Tracker](https://github.com/AbdelrahmanMohamed7/car-rental-fleet-tracker)** — Java fleet management for vehicles, customers, availability, bookings, returns, due dates, and fines.
-- **[Procedural 2D Physics Engine](https://github.com/AbdelrahmanMohamed7/procedural-2D-physics-engine)** — A C-based console simulation exploring procedural motion, game-loop behavior, scoring, and ASCII rendering.
-
 ---
 
-## Technologies I use
+## Featured work
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,dart,cpp,c,react,vue,nextjs,nodejs,express,flutter,firebase,redis,mysql,sqlite,docker,git&amp;perline=9" alt="Java, JavaScript, TypeScript, Dart, C++, C, React, Vue, Next.js, Node.js, Express, Flutter, Firebase, Redis, MySQL, SQLite, Docker, and Git" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="34%" align="center" valign="middle">
+      <a href="https://github.com/AbdelrahmanMohamed7/restaurant-canteen-app">
+        <img src="assets/projects/restaurant-canteen.png" width="230" alt="Restaurant Canteen App food court screen" />
+      </a>
+    </td>
+    <td width="66%" valign="middle">
+      <h2>🍽️ Restaurant Canteen App</h2>
+      <p>A complete Flutter ordering experience with customer and manager workflows.</p>
+      <ul>
+        <li>Firebase authentication and real-time restaurant data</li>
+        <li>Menus, product options, persistent cart, and order history</li>
+        <li>Location-aware checkout and Google Maps integration</li>
+        <li>Structured GetX state management and reusable widgets</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&amp;logo=dart&amp;logoColor=white" alt="Dart" />
+        <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&amp;logo=firebase&amp;logoColor=white" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" alt="Google Maps" />
+      </p>
+      <p><a href="https://portfolio-three-weld-1nl59zz6ir.vercel.app/projects/restaurant-canteen"><strong>Case study</strong></a> · <a href="https://github.com/AbdelrahmanMohamed7/restaurant-canteen-app"><strong>Source code →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🖥️ Product interfaces</h3>
-      <p>Responsive web applications, Flutter mobile experiences, and structured Java desktop interfaces.</p>
+    <td width="58%" valign="middle">
+      <h2>🎓 Global University Ranking Engine</h2>
+      <p>A C++ analytics and recommendation system built around real university-ranking data.</p>
+      <ul>
+        <li>Searches, filters, recommendations, and user/admin flows</li>
+        <li>Custom sorting and searching algorithm implementations</li>
+        <li>File-based persistence and feedback workflows</li>
+        <li>Benchmarks across more than 1,400 university records</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Data_Structures-7C3AED?style=flat-square" alt="Data Structures" />
+        <img src="https://img.shields.io/badge/Algorithms-DB2777?style=flat-square" alt="Algorithms" />
+        <img src="https://img.shields.io/badge/Benchmarking-0F766E?style=flat-square" alt="Benchmarking" />
+      </p>
+      <p><a href="https://portfolio-three-weld-1nl59zz6ir.vercel.app/projects/global-university"><strong>Case study</strong></a> · <a href="https://github.com/AbdelrahmanMohamed7/global-university-ranking-engine"><strong>Source code →</strong></a></p>
     </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Application logic</h3>
-      <p>Authentication, role-based access, APIs, state management, databases, and real-world business workflows.</p>
+    <td width="42%" align="center" valign="middle">
+      <a href="https://github.com/AbdelrahmanMohamed7/global-university-ranking-engine">
+        <img src="assets/projects/university-ranking.png" width="420" alt="University search and performance benchmark results" />
+      </a>
     </td>
-    <td width="33%" valign="top">
-      <h3>🧱 Engineering foundations</h3>
-      <p>Object-oriented design, data structures, algorithms, concurrency, file handling, and maintainable project structure.</p>
+  </tr>
+</table>
+
+### More engineering projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Medical Records Access Platform</h3>
+      <p>Vue and Express authorization workflows with dedicated admin, doctor, and patient experiences plus dual Redis permission mappings.</p>
+      <p><strong>Vue · Express.js · Redis · Docker</strong></p>
+      <a href="https://github.com/AbdelrahmanMohamed7/medical-blockchain-project">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Enterprise Payroll System</h3>
+      <p>Java desktop payroll management with employee records, automated calculations, role-based access, auditing, SQLite, and PDF reports.</p>
+      <p><strong>Java · Swing · SQLite · iText</strong></p>
+      <a href="https://github.com/AbdelrahmanMohamed7/enterprise-payroll-system-public">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 Car Rental Fleet Tracker</h3>
+      <p>Java fleet management for vehicle records, customers, availability, bookings, returns, due dates, and fine tracking.</p>
+      <p><strong>Java · Swing · CRUD · Desktop</strong></p>
+      <a href="https://github.com/AbdelrahmanMohamed7/car-rental-fleet-tracker">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Procedural 2D Physics Engine</h3>
+      <p>A console simulation exploring procedural motion, configurable game-loop behavior, scoring, and ASCII rendering.</p>
+      <p><strong>C · Simulation · Procedural Programming</strong></p>
+      <a href="https://github.com/AbdelrahmanMohamed7/procedural-2D-physics-engine">View repository →</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## Currently focused on
+## Technology toolkit
 
-- Building polished full-stack and mobile applications from interface to data layer
-- Strengthening clean architecture, backend design, and production-ready delivery
-- Exploring software development roles and remote collaboration opportunities
+<h4 align="center">Frontend & Mobile</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,js,ts,html,css,tailwind,flutter,dart&amp;theme=dark" alt="React, Vue, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Flutter, and Dart" />
+  </a>
+</p>
+
+<h4 align="center">Backend, Data & Core Engineering</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,redis,mysql,sqlite,java,cpp,c,python&amp;theme=dark" alt="Node.js, Express, Firebase, Redis, MySQL, SQLite, Java, C++, C, and Python" />
+  </a>
+</p>
+
+<h4 align="center">Tools</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,androidstudio&amp;theme=dark" alt="Git, GitHub, Docker, Linux, VS Code, and Android Studio" />
+  </a>
+</p>
+
+---
 
 <div align="center">
-  <h3>Have a product idea or an engineering opportunity?</h3>
+  <h2>Let's build something useful.</h2>
+  <p>I'm open to full-stack software development roles, remote opportunities, and practical product collaborations.</p>
   <p>
-    <a href="mailto:bodabanzen1818@gmail.com"><strong>Let's talk</strong></a>
+    <a href="mailto:bodabanzen1818@gmail.com"><strong>Email me</strong></a>
     &nbsp;·&nbsp;
-    <a href="https://portfolio-three-weld-1nl59zz6ir.vercel.app/"><strong>View my portfolio</strong></a>
+    <a href="https://portfolio-three-weld-1nl59zz6ir.vercel.app/"><strong>Visit my portfolio</strong></a>
     &nbsp;·&nbsp;
     <a href="assets/Abdelrahman_Mohamed_CV_Professional.pdf"><strong>Read my résumé</strong></a>
   </p>
