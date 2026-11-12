@@ -1,65 +1,91 @@
 <h1 align="center">Hi, I'm Abdelrahman Mohamed 👋</h1>
 
-<h3 align="center">Full-Stack Software Developer</h3>
+<h3 align="center">Full-Stack Software Developer (.NET)</h3>
 
 <p align="center">
-  I build practical products across web, mobile, backend, and desktop—turning ideas into<br />
-  clear user experiences backed by maintainable, well-structured engineering.
+  I build scalable full-stack web applications and resilient backend services using<br />
+  C#, ASP.NET Core (.NET), RESTful Web APIs, Entity Framework Core, Microsoft SQL Server, React.js, and Microsoft Azure.
 </p>
 
 <p align="center">
-  <a href="https://portfolio-three-weld-1nl59zz6ir.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0EA5E9?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio-three-weld-1nl59zz6ir.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-14B8A6?style=for-the-badge&amp;logo=vercel&amp;logoColor=0F172A" alt="Portfolio" /></a>
+  <a href="https://nusukcodes.site"><img src="https://img.shields.io/badge/NUSUK_LIVE-0EA5E9?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Nusuk Community Live" /></a>
   <a href="assets/Abdelrahman_Mohamed_CV_Professional.pdf"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-0F766E?style=for-the-badge&amp;logo=readme&amp;logoColor=white" alt="Résumé" /></a>
   <a href="https://www.linkedin.com/in/abdelrahman-mohamed-85a61522a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:bodabanzen1818@gmail.com"><img src="https://img.shields.io/badge/EMAIL-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=bodabanzen1818@gmail.com"><img src="https://img.shields.io/badge/EMAIL-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Cairo,_Egypt-111827?style=flat-square" alt="Cairo, Egypt" />
-  <img src="https://img.shields.io/badge/Workplace-Open_to_Remote-111827?style=flat-square" alt="Open to remote opportunities" />
+  <img src="https://img.shields.io/badge/Stack-.NET_%7C_C%23_%7C_SQL_Server_%7C_React_%7C_Azure-1E3A8A?style=flat-square" alt=".NET, C#, SQL Server, React, Azure" />
   <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-065F46?style=flat-square" alt="Open to software development opportunities" />
 </p>
 
 ---
 
-## A quick introduction
+## Quick Introduction
 
 <table>
   <tr>
     <td width="33%" valign="top">
+      <h3>⚙️ .NET &amp; Cloud Engineering</h3>
+      <p>Building production RESTful Web APIs with C#, ASP.NET Core (.NET), Entity Framework Core, Microsoft SQL Server, Docker, and Microsoft Azure.</p>
+    </td>
+    <td width="33%" valign="top">
       <h3>🎓 Computer Science</h3>
-      <p>Dual-degree graduate from Asia Pacific University, Malaysia and De Montfort University, UK.</p>
+      <p>Dual-degree Bachelor of Computer Science graduate from De Montfort University, UK &amp; Asia Pacific University, Malaysia.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🏅 Frontend certified</h3>
-      <p>Meta Front-End Developer Professional Certificate, backed by hands-on React and interface work.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧩 End-to-end builder</h3>
-      <p>Comfortable moving from user interface and application logic to data, integrations, and delivery.</p>
+      <h3>🏅 Certified Frontend Builder</h3>
+      <p>Meta Front-End Developer Professional Certificate, pairing clean React.js interfaces with reliable backend systems.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Featured work
+## Featured Work
 
 <table>
   <tr>
-    <td width="34%" align="center" valign="middle">
-      <a href="https://github.com/AbdelrahmanMohamed7/restaurant-canteen-app">
-        <img src="assets/projects/restaurant-canteen.png" width="230" alt="Restaurant Canteen App food court screen" />
+    <td width="44%" align="center" valign="middle">
+      <a href="https://nusukcodes.site">
+        <img src="assets/projects/nusuk-community.png" width="420" alt="Nusuk Community Platform live bilingual interface" />
       </a>
     </td>
-    <td width="66%" valign="middle">
-      <h2>🍽️ Restaurant Canteen App</h2>
-      <p>A complete Flutter ordering experience with customer and manager workflows.</p>
+    <td width="56%" valign="middle">
+      <h2>🕋 Nusuk Community Platform (Live Production)</h2>
+      <p>A live bilingual (Arabic/English) full-stack community platform for sharing and discovering verified Nusuk Challenge invitation codes.</p>
       <ul>
-        <li>Firebase authentication and real-time restaurant data</li>
-        <li>Menus, product options, persistent cart, and order history</li>
-        <li>Location-aware checkout and Google Maps integration</li>
-        <li>Structured GetX state management and reusable widgets</li>
+        <li>ASP.NET Core RESTful Web API (.NET) containerized with Docker on Microsoft Azure</li>
+        <li>Entity Framework Core + Microsoft SQL Server with transient-fault retry policies</li>
+        <li>In-memory caching, IP rate limiting, and atomic duplicate-action prevention</li>
+        <li>Responsive RTL/LTR React.js + Vite frontend deployed on Vercel</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="ASP.NET Core" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server" />
+        <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft Azure" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+      </p>
+      <p><a href="https://nusukcodes.site"><strong>Live website →</strong></a> · <a href="https://portfolio-three-weld-1nl59zz6ir.vercel.app/projects/nusuk-community"><strong>Case study</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table>
+  <tr>
+    <td width="64%" valign="middle">
+      <h2>🍽️ Restaurant Canteen Ordering App</h2>
+      <p>A cross-platform Flutter ordering application with customer and canteen manager workflows.</p>
+      <ul>
+        <li>Firebase Authentication and real-time Cloud Firestore synchronization</li>
+        <li>Category browsing, cart checkout, and live order tracking</li>
+        <li>Location-aware checkout with Google Maps integration</li>
+        <li>Structured GetX state management and reusable UI components</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
@@ -69,6 +95,11 @@
       </p>
       <p><a href="https://portfolio-three-weld-1nl59zz6ir.vercel.app/projects/restaurant-canteen"><strong>Case study</strong></a> · <a href="https://github.com/AbdelrahmanMohamed7/restaurant-canteen-app"><strong>Source code →</strong></a></p>
     </td>
+    <td width="36%" align="center" valign="middle">
+      <a href="https://github.com/AbdelrahmanMohamed7/restaurant-canteen-app">
+        <img src="assets/projects/restaurant-canteen.png" width="220" alt="Restaurant Canteen App food court screen" />
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -76,14 +107,18 @@
 
 <table>
   <tr>
+    <td width="42%" align="center" valign="middle">
+      <a href="https://github.com/AbdelrahmanMohamed7/global-university-ranking-engine">
+        <img src="assets/projects/university-ranking.png" width="400" alt="University search and performance benchmark results" />
+      </a>
+    </td>
     <td width="58%" valign="middle">
       <h2>🎓 Global University Ranking Engine</h2>
-      <p>A C++ analytics and recommendation system built around real university-ranking data.</p>
+      <p>A C++ analytics and recommendation system built around large-scale university ranking datasets.</p>
       <ul>
-        <li>Searches, filters, recommendations, and user/admin flows</li>
         <li>Custom sorting and searching algorithm implementations</li>
-        <li>File-based persistence and feedback workflows</li>
-        <li>Benchmarks across more than 1,400 university records</li>
+        <li>Search, filtering, recommendation, and user/admin workflows</li>
+        <li>File-based persistence and structured benchmark comparison</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
@@ -93,79 +128,62 @@
       </p>
       <p><a href="https://portfolio-three-weld-1nl59zz6ir.vercel.app/projects/global-university"><strong>Case study</strong></a> · <a href="https://github.com/AbdelrahmanMohamed7/global-university-ranking-engine"><strong>Source code →</strong></a></p>
     </td>
-    <td width="42%" align="center" valign="middle">
-      <a href="https://github.com/AbdelrahmanMohamed7/global-university-ranking-engine">
-        <img src="assets/projects/university-ranking.png" width="420" alt="University search and performance benchmark results" />
-      </a>
-    </td>
   </tr>
 </table>
 
-### More engineering projects
+<br />
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Medical Records Access Platform</h3>
-      <p>Vue and Express authorization workflows with dedicated admin, doctor, and patient experiences plus dual Redis permission mappings.</p>
-      <p><strong>Vue · Express.js · Redis · Docker</strong></p>
-      <a href="https://github.com/AbdelrahmanMohamed7/medical-blockchain-project">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💼 Enterprise Payroll System</h3>
-      <p>Java desktop payroll management with employee records, automated calculations, role-based access, auditing, SQLite, and PDF reports.</p>
-      <p><strong>Java · Swing · SQLite · iText</strong></p>
-      <a href="https://github.com/AbdelrahmanMohamed7/enterprise-payroll-system-public">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 Car Rental Fleet Tracker</h3>
-      <p>Java fleet management for vehicle records, customers, availability, bookings, returns, due dates, and fine tracking.</p>
-      <p><strong>Java · Swing · CRUD · Desktop</strong></p>
-      <a href="https://github.com/AbdelrahmanMohamed7/car-rental-fleet-tracker">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Procedural 2D Physics Engine</h3>
-      <p>A console simulation exploring procedural motion, configurable game-loop behavior, scoring, and ASCII rendering.</p>
-      <p><strong>C · Simulation · Procedural Programming</strong></p>
-      <a href="https://github.com/AbdelrahmanMohamed7/procedural-2D-physics-engine">View repository →</a>
+    <td width="100%" valign="top">
+      <h3>🎮 Procedural 2D Console Physics Engine</h3>
+      <p>A C-based real-time console physics simulation featuring a configurable game loop, collision mechanics, procedural motion behavior, and ASCII playfield rendering.</p>
+      <p><strong>C · 2D Physics Simulation · Real-Time Game Loop · Console Rendering</strong></p>
+      <p><a href="https://portfolio-three-weld-1nl59zz6ir.vercel.app/projects/procedural-physics"><strong>Case study</strong></a> · <a href="https://github.com/AbdelrahmanMohamed7/procedural-2D-physics-engine"><strong>Source code →</strong></a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Technology toolkit
+## Technical Stack
 
-<h4 align="center">Frontend & Mobile</h4>
+<h4 align="center">Backend, Database &amp; Cloud</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,js,ts,html,css,tailwind,flutter,dart&amp;theme=dark" alt="React, Vue, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Flutter, and Dart" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,vercel,firebase&amp;theme=dark" alt="C#, .NET, Microsoft Azure, Docker, Vercel, Firebase" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core_(.NET)-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/RESTful_Web_APIs-0F766E?style=flat-square" alt="RESTful Web APIs" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft Azure" />
+</p>
+
+<h4 align="center">Frontend &amp; Mobile</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite,flutter,dart&amp;theme=dark" alt="React, JavaScript, HTML, CSS, Tailwind CSS, Vite, Flutter, and Dart" />
   </a>
 </p>
 
-<h4 align="center">Backend, Data & Core Engineering</h4>
+<h4 align="center">Core CS &amp; Engineering Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,redis,mysql,sqlite,java,cpp,c,python&amp;theme=dark" alt="Node.js, Express, Firebase, Redis, MySQL, SQLite, Java, C++, C, and Python" />
-  </a>
-</p>
-
-<h4 align="center">Tools</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,androidstudio&amp;theme=dark" alt="Git, GitHub, Docker, Linux, VS Code, and Android Studio" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vs,vscode,linux&amp;theme=dark" alt="C++, C, Python, Git, GitHub, Visual Studio, VS Code, and Linux" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <h2>Let's build something useful.</h2>
-  <p>I'm open to full-stack software development roles, remote opportunities, and practical product collaborations.</p>
+  <h2>Let's connect.</h2>
+  <p>Open to Full-Stack (.NET) and Backend Software Developer roles, remote opportunities, and product collaborations.</p>
   <p>
-    <a href="mailto:bodabanzen1818@gmail.com"><strong>Email me</strong></a>
+    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=bodabanzen1818@gmail.com"><strong>Email me</strong></a>
     &nbsp;·&nbsp;
     <a href="https://portfolio-three-weld-1nl59zz6ir.vercel.app/"><strong>Visit my portfolio</strong></a>
     &nbsp;·&nbsp;
